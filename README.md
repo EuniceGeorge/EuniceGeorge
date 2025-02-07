@@ -11,7 +11,7 @@ I'm a **Back-end Engineer** with an appetite for learning new technologies. I sp
 ## 🌱 Currently Learning  
 - **Advanced system design & microservices architecture**  
 - **Cloud technologies (AWS, GCP, or Azure)**
-- **API Development & Optimization** 
+
 
 ## 📌 Projects  
 - **NaijaCare** - A recipe management API for Nigerian cuisines.  
