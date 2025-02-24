@@ -23,6 +23,6 @@ I'm a **Back-end Engineer** with an appetite for learning new technologies. I sp
 
 🚀 **Let's build something amazing!**  
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=EuniceGeorge&show_icons=true&theme=synthwave&hide_border=true)
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=EuniceGeorge&show_icons=true&theme=synthwave&hide_border=true)-->
 
 
